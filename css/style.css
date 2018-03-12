@@ -1,4 +1,4 @@
-body { margin: 48px; max-width: 640px; font: 16px/1.5 georgia, serif; }
+body { margin: 48px; max-width: 640px; font: 16px/1.5 -apple-system, sans-serif; }
 @media (max-width: 768px) { body { margin: 24px; } }
 @media print { body { margin: 24px; max-width: none; font-size: 12px; } }
 
